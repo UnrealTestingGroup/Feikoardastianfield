@@ -555,3 +555,1201 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.11-19.48.29:213][ 14]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
 [2019.11.11-19.48.29:213][ 14]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000073 seconds (updated 0 objects)
 [2019.11.11-19.49.27:733][521]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={8938EDDB-4366-2704-7D5A-DBB19DED7659}
+[2019.11.11-19.50.58:034][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-19.51.05:398][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-19.51.12:308][691]LogSlate: Took 0.001093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.11-19.51.12:840][691]LogTexture: Display: Building textures: Target_01_Material_001_BaseColor (AutoDXT, 1024X1024)
+[2019.11.11-19.51.12:840][691]LogTexture: Display: Building textures: Target_01_Material_001_Normal (BC5, 1024X1024)
+[2019.11.11-19.51.12:840][691]LogTexture: Display: Building textures: Target_01_Material_001_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2019.11.11-19.51.12:840][691]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 256X256)
+[2019.11.11-19.51.12:840][691]LogTexture: Display: Building textures: SM_Board_01_M_Board_01_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2019.11.11-19.51.12:840][691]LogTexture: Display: Building textures: SM_Board_01_M_Board_01_Normal (BC5, 1024X1024)
+[2019.11.11-19.51.12:840][691]LogTexture: Display: Building textures: SM_Board_01_M_Board_01_BaseColor (AutoDXT, 1024X1024)
+[2019.11.11-19.51.12:840][691]LogMaterial: Display: Missing cached shader map for material M_Target_01, compiling. 
+[2019.11.11-19.51.12:967][691]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.11.11-19.51.12:967][691]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.11.11-19.51.12:967][691]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.11.11-19.51.12:967][691]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.11-19.51.12:967][691]LogStaticMesh: Building static mesh SM_Target_01...
+[2019.11.11-19.51.12:998][691]LogStaticMesh: Built static mesh [0.03s] /Game/FPS/Assets/Target_01/SM_Target_01.SM_Target_01
+[2019.11.11-19.51.13:076][691]LogStaticMesh: Building static mesh SM_Board_01...
+[2019.11.11-19.51.13:084][691]LogStaticMesh: Built static mesh [0.01s] /Game/FPS/Assets/Board/SM_Board_01.SM_Board_01
+[2019.11.11-19.51.13:531][691]LogMaterial: Display: Missing cached shader map for material M_Board_01, compiling. 
+[2019.11.11-19.51.13:552][691]LogAIModule: Creating AISystem for world Test_Map
+[2019.11.11-19.51.13:712][691]LogAssetEditorManager: Opening Asset editor for World /Game/FPS/Levels/Test_Map.Test_Map
+[2019.11.11-19.51.13:747][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.11.11-19.51.15:413][691]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2019.11.11-19.51.15:683][691]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.11.11-19.51.16:056][691]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.11.11-19.51.16:869][691]LogSlate: Window 'Save Content' being destroyed
+[2019.11.11-19.51.17:019][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.11.11-19.51.17:103][691]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.11.11-19.51.17:129][691]LogSavePackage: Moving 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/FeikoGymCB9D6AAB4BD543B63B418EB8B6838BD2.tmp' to 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Content/FPS/Levels/FeikoGym.umap'
+[2019.11.11-19.51.17:144][691]LogFileHelpers: Saving map 'FeikoGym' took 0.170
+[2019.11.11-19.51.17:153][691]Cmd: MAP LOAD FILE="C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Content/FPS/Levels/Test_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.11-19.51.17:153][691]LightingResults: New page: Lighting Build
+[2019.11.11-19.51.17:153][691]LoadErrors: New page: Loading map: Test_Map.umap
+[2019.11.11-19.51.17:158][691]LogWorld: UWorld::CleanupWorld for Conquest_Map, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-19.51.17:160][691]MapCheck: New page: Map Check
+[2019.11.11-19.51.17:160][691]LightingResults: New page: Lighting Build
+[2019.11.11-19.51.17:211][691]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.11.11-19.51.17:248][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.11.11-19.51.17:282][691]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2019.11.11-19.51.17:789][691]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.11.11-19.51.17:790][691]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.11-19.51.17:831][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.11.11-19.51.17:853][691]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.11-19.51.17:854][691]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.24ms to complete.
+[2019.11.11-19.51.17:854][691]LogFileHelpers: Loading map 'Test_Map' took 0.709
+[2019.11.11-19.51.17:919][691]LogAIModule: Creating AISystem for world FeikoGym
+[2019.11.11-19.51.18:016][693]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.11.11-19.51.18:072][694]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.11.11-19.51.18:631][722]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.11-19.51.53:551][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-19.51.53:633][176]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-19.51.53:643][176]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel.Test_Map' with GeneratedClass '/Game/FPS/Levels/Test_Map.Test_Map_C' with ClassGeneratedBy '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel.Test_Map'
+[2019.11.11-19.51.53:643][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-19.51.53:650][176]PIE: New page: PIE session: Test_Map (Nov 11, 2019, 9:51:53 PM)
+[2019.11.11-19.51.53:671][176]LogOnline: OSS: Creating online subsystem instance for: Steam
+[2019.11.11-19.51.53:671][176]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.11.11-19.51.53:671][176]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.11.11-19.51.53:674][176]LogPlayLevel: Creating play world package: /Game/FPS/Levels/UEDPIE_0_Test_Map
+[2019.11.11-19.51.53:720][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046848s)
+[2019.11.11-19.51.53:721][176]LogAIModule: Creating AISystem for world Test_Map
+[2019.11.11-19.51.53:721][176]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2019.11.11-19.51.53:721][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPS/Levels/Test_Map.Test_Map to /Game/FPS/Levels/UEDPIE_0_Test_Map.Test_Map (0.048110s)
+[2019.11.11-19.51.53:748][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.11.11-19.51.53:817][176]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.11-19.51.53:953][176]LogInit: FAudioDevice initialized.
+[2019.11.11-19.51.53:963][176]LogLoad: Game class is 'FPS_TDM_GM_C'
+[2019.11.11-19.51.53:973][176]LogWorld: Bringing World /Game/FPS/Levels/UEDPIE_0_Test_Map.Test_Map up for play (max tick rate 60) at 2019.11.11-20.51.53
+[2019.11.11-19.51.53:992][176]LogWorld: Bringing up level for play took: 0.021413
+[2019.11.11-19.51.53:992][176]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.11.11-19.51.54:099][176]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.11.11-19.51.54:150][176]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.11-19.51.54:150][176]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-19.51.54:150][176]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-19.51.54:150][176]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-19.51.54:179][176]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-19.51.54:179][176]PIE: Play in editor start time for /Game/FPS/Levels/UEDPIE_0_Test_Map 0.286
+[2019.11.11-19.51.54:179][176]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel.Test_Map' with GeneratedClass '/Game/FPS/Levels/Test_Map.Test_Map_C' with ClassGeneratedBy '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel.Test_Map'
+[2019.11.11-19.51.54:321][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-19.52.46:956][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-19.52.48:004][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-19.54.12:112][862]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel.Test_Map' with GeneratedClass '/Game/FPS/Levels/Test_Map.Test_Map_C' with ClassGeneratedBy '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel.Test_Map'
+[2019.11.11-19.54.12:132][862]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2019.11.11-19.54.12:132][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-19.54.12:132][862]LogWorld: BeginTearingDown for /Game/FPS/Levels/UEDPIE_0_Test_Map
+[2019.11.11-19.54.12:133][862]LogWorld: UWorld::CleanupWorld for Test_Map, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-19.54.12:145][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-19.54.12:146][862]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel.Test_Map' with GeneratedClass '/Game/FPS/Levels/Test_Map.Test_Map_C' with ClassGeneratedBy '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel.Test_Map'
+[2019.11.11-19.54.12:205][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-19.54.12:215][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.11.11-19.54.12:233][863]Cmd: SELECT NONE
+[2019.11.11-19.54.12:265][863]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.11.11-19.54.20:854][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-19.54.20:954][384]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-19.54.20:961][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel.Test_Map' with GeneratedClass '/Game/FPS/Levels/Test_Map.Test_Map_C' with ClassGeneratedBy '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel.Test_Map'
+[2019.11.11-19.54.20:962][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-19.54.20:962][384]PIE: New page: PIE session: Test_Map (Nov 11, 2019, 9:54:20 PM)
+[2019.11.11-19.54.20:962][384]LogPlayLevel: Creating play world package: /Game/FPS/Levels/UEDPIE_0_Test_Map
+[2019.11.11-19.54.21:011][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048982s)
+[2019.11.11-19.54.21:012][384]LogAIModule: Creating AISystem for world Test_Map
+[2019.11.11-19.54.21:012][384]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2019.11.11-19.54.21:012][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPS/Levels/Test_Map.Test_Map to /Game/FPS/Levels/UEDPIE_0_Test_Map.Test_Map (0.050178s)
+[2019.11.11-19.54.21:036][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.11.11-19.54.21:076][384]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.11-19.54.21:213][384]LogInit: FAudioDevice initialized.
+[2019.11.11-19.54.21:223][384]LogLoad: Game class is 'FPS_TDM_GM_C'
+[2019.11.11-19.54.21:227][384]LogWorld: Bringing World /Game/FPS/Levels/UEDPIE_0_Test_Map.Test_Map up for play (max tick rate 60) at 2019.11.11-20.54.21
+[2019.11.11-19.54.21:227][384]LogWorld: Bringing up level for play took: 0.002665
+[2019.11.11-19.54.21:227][384]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.11.11-19.54.21:234][384]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.11-19.54.21:234][384]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-19.54.21:234][384]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-19.54.21:234][384]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-19.54.21:235][384]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-19.54.21:235][384]PIE: Play in editor start time for /Game/FPS/Levels/UEDPIE_0_Test_Map -0.658
+[2019.11.11-19.54.21:236][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel.Test_Map' with GeneratedClass '/Game/FPS/Levels/Test_Map.Test_Map_C' with ClassGeneratedBy '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel.Test_Map'
+[2019.11.11-19.54.24:762][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-19.54.32:965][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-19.55.25:993][267]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel.Test_Map' with GeneratedClass '/Game/FPS/Levels/Test_Map.Test_Map_C' with ClassGeneratedBy '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel.Test_Map'
+[2019.11.11-19.55.25:993][267]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2019.11.11-19.55.25:993][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-19.55.25:993][267]LogWorld: BeginTearingDown for /Game/FPS/Levels/UEDPIE_0_Test_Map
+[2019.11.11-19.55.25:994][267]LogWorld: UWorld::CleanupWorld for Test_Map, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-19.55.26:006][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-19.55.26:006][267]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel.Test_Map' with GeneratedClass '/Game/FPS/Levels/Test_Map.Test_Map_C' with ClassGeneratedBy '/Game/FPS/Levels/Test_Map.Test_Map:PersistentLevel.Test_Map'
+[2019.11.11-19.55.26:041][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-19.55.26:052][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.11.11-19.55.26:101][270]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.11.11-19.55.33:103][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-19.55.41:697][841]LogAssetEditorManager: Opening Asset editor for World /Game/FPS/Levels/FeikoGym.FeikoGym
+[2019.11.11-19.55.41:724][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.11.11-19.55.41:725][841]Cmd: MAP LOAD FILE="C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Content/FPS/Levels/FeikoGym.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.11-19.55.41:725][841]LightingResults: New page: Lighting Build
+[2019.11.11-19.55.41:726][841]LoadErrors: New page: Loading map: FeikoGym.umap
+[2019.11.11-19.55.41:727][841]LogWorld: UWorld::CleanupWorld for Test_Map, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-19.55.41:728][841]MapCheck: New page: Map Check
+[2019.11.11-19.55.41:728][841]LightingResults: New page: Lighting Build
+[2019.11.11-19.55.41:758][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.11.11-19.55.41:843][841]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.11-19.55.41:872][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.11.11-19.55.41:894][841]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.11-19.55.41:895][841]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.324ms to complete.
+[2019.11.11-19.55.41:896][841]LogFileHelpers: Loading map 'FeikoGym' took 0.172
+[2019.11.11-19.55.44:354][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-19.55.45:020][ 27]LogObjectTools: Deleting 1 worlds: /Game/FPS/Levels/FeikoGym.FeikoGym
+[2019.11.11-19.55.45:020][ 27]LogObjectTools: Currently 1 active worlds: /Game/FPS/Levels/FeikoGym.FeikoGym
+[2019.11.11-19.55.48:798][ 27]LogSlate: Window 'Unable to delete level' being destroyed
+[2019.11.11-19.55.49:611][ 70]LogAIModule: Creating AISystem for world Test_Map
+[2019.11.11-19.55.53:548][240]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.11.11-19.55.53:723][240]LogAIModule: Creating AISystem for world Test_Map1
+[2019.11.11-19.55.56:293][390]LogAIModule: Creating AISystem for world TravelLevel
+[2019.11.11-19.55.56:297][390]LogAssetEditorManager: Opening Asset editor for World /Game/FPS/Levels/TravelLevel.TravelLevel
+[2019.11.11-19.55.56:324][390]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.11.11-19.55.58:293][390]LogSlate: Window 'Save Content' being destroyed
+[2019.11.11-19.55.58:417][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.11.11-19.55.58:929][390]LogSavePackage: Moving 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/Test_Map17E35A0BC406A9CBFB54BAFADC7383566.tmp' to 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Content/FPS/Levels/Test_Map1.umap'
+[2019.11.11-19.55.58:943][390]LogFileHelpers: Saving map 'Test_Map1' took 0.639
+[2019.11.11-19.55.58:944][390]Cmd: MAP LOAD FILE="C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Content/FPS/Levels/TravelLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.11-19.55.58:944][390]LightingResults: New page: Lighting Build
+[2019.11.11-19.55.58:944][390]LoadErrors: New page: Loading map: TravelLevel.umap
+[2019.11.11-19.55.58:945][390]LogWorld: UWorld::CleanupWorld for FeikoGym, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-19.55.58:946][390]MapCheck: New page: Map Check
+[2019.11.11-19.55.58:946][390]LightingResults: New page: Lighting Build
+[2019.11.11-19.55.58:976][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.11.11-19.55.59:014][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.11.11-19.55.59:056][390]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.11.11-19.55.59:098][390]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.11.11-19.55.59:236][390]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.11-19.55.59:267][390]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.11.11-19.55.59:281][390]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.11-19.55.59:281][390]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.161ms to complete.
+[2019.11.11-19.55.59:282][390]LogFileHelpers: Loading map 'TravelLevel' took 0.338
+[2019.11.11-19.55.59:383][390]LogAIModule: Creating AISystem for world Test_Map1
+[2019.11.11-19.56.16:915][596]LogAIModule: Creating AISystem for world FeikoGym
+[2019.11.11-19.56.16:918][596]LogObjectTools: Deleting 1 worlds: /Game/FPS/Levels/FeikoGym.FeikoGym
+[2019.11.11-19.56.16:918][596]LogObjectTools: Currently 1 active worlds: /Game/FPS/Levels/TravelLevel.TravelLevel
+[2019.11.11-19.56.16:944][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.11.11-19.56.20:694][596]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.11-19.56.20:975][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.11.11-19.56.21:006][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.11.11-19.56.21:031][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.11.11-19.56.25:205][823]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.11.11-19.56.25:205][823]LogMetaData: Removing '/Game/FPS/Levels/FeikoGym.FeikoGym_C' ref from Metadata '/Game/FPS/Levels/Test_Map1.PackageMetaData'
+[2019.11.11-19.56.25:206][823]LogMetaData: Removing '/Game/FPS/Levels/FeikoGym.SKEL_FeikoGym_C' ref from Metadata '/Game/FPS/Levels/Test_Map1.PackageMetaData'
+[2019.11.11-19.56.25:321][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.11.11-19.56.25:666][823]LogSavePackage: Moving 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/FeikoGym7B25CADF49F67A8DB1CDAF987E3F3793.tmp' to 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Content/FPS/Levels/FeikoGym.umap'
+[2019.11.11-19.56.25:685][823]LogFileHelpers: Saving map 'FeikoGym' took 0.433
+[2019.11.11-19.56.25:871][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.11.11-19.56.25:904][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.11.11-19.56.25:929][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.11.11-19.56.27:244][899]LogAssetEditorManager: Opening Asset editor for World /Game/FPS/Levels/FeikoGym.FeikoGym
+[2019.11.11-19.56.27:271][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.11.11-19.56.27:272][899]Cmd: MAP LOAD FILE="C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Content/FPS/Levels/FeikoGym.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.11-19.56.27:272][899]LightingResults: New page: Lighting Build
+[2019.11.11-19.56.27:273][899]LoadErrors: New page: Loading map: FeikoGym.umap
+[2019.11.11-19.56.27:273][899]LogWorld: UWorld::CleanupWorld for TravelLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-19.56.27:273][899]MapCheck: New page: Map Check
+[2019.11.11-19.56.27:274][899]LightingResults: New page: Lighting Build
+[2019.11.11-19.56.27:305][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.11.11-19.56.27:837][899]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.11-19.56.27:872][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.11.11-19.56.27:894][899]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.11-19.56.27:895][899]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.234ms to complete.
+[2019.11.11-19.56.27:896][899]LogFileHelpers: Loading map 'FeikoGym' took 0.624
+[2019.11.11-19.58.02:769][586]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2019.11.11-19.58.04:683][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-19.58.15:076][281]LogEditorViewport: Clicking on Actor (LMB): Penetrable_Board_C (Penetrable_Board)
+[2019.11.11-19.58.17:831][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2019.11.11-19.58.19:270][507]Cmd: DELETE
+[2019.11.11-19.58.19:270][507]Cmd: ACTOR DELETE
+[2019.11.11-19.58.19:437][507]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.11-19.58.19:466][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.11.11-19.58.19:466][507]LogEditorActor: Deleted 1 Actors (0.153 secs)
+[2019.11.11-19.58.21:996][658]LogEditorViewport: Clicking on Actor (LMB): Penetrable_Board_C (Penetrable_Board)
+[2019.11.11-19.58.24:549][809]Cmd: TRANSACTION UNDO
+[2019.11.11-19.58.24:549][809]LogEditorTransaction: Undo Move Actors
+[2019.11.11-19.58.25:119][832]Cmd: EDIT COPY
+[2019.11.11-19.58.25:322][844]Cmd: EDIT PASTE
+[2019.11.11-19.58.32:334][261]Cmd: EDIT COPY
+[2019.11.11-19.58.32:531][272]Cmd: EDIT PASTE
+[2019.11.11-19.58.34:312][377]Cmd: TRANSACTION UNDO
+[2019.11.11-19.58.34:312][377]LogEditorTransaction: Undo Move Actors
+[2019.11.11-19.58.35:155][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-19.58.38:632][632]Cmd: EDIT COPY
+[2019.11.11-19.58.38:833][644]Cmd: EDIT PASTE
+[2019.11.11-19.58.40:556][746]Cmd: EDIT PASTE
+[2019.11.11-19.58.50:446][338]LogEditorViewport: Clicking on Actor (LMB): Penetrable_Board_C (Penetrable_Board5)
+[2019.11.11-19.58.51:249][385]LogEditorViewport: Clicking on Actor (CTRL LMB): Penetrable_Board_C (Penetrable_Board6)
+[2019.11.11-19.58.51:657][408]LogEditorViewport: Clicking on Actor (CTRL LMB): Penetrable_Board_C (Penetrable_Board7)
+[2019.11.11-19.58.53:666][527]LogEditorViewport: Clicking on Actor (LMB): Penetrable_Board_C (Penetrable_Board6)
+[2019.11.11-19.58.54:419][571]LogEditorViewport: Clicking on Actor (CTRL LMB): Penetrable_Board_C (Penetrable_Board5)
+[2019.11.11-19.58.55:981][663]LogEditorViewport: Clicking on Actor (LMB): Penetrable_Board_C (Penetrable_Board5)
+[2019.11.11-20.05.13:683][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-20.05.13:749][321]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-20.05.13:757][321]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.05.13:757][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-20.05.13:757][321]PIE: New page: PIE session: FeikoGym (Nov 11, 2019, 10:05:13 PM)
+[2019.11.11-20.05.13:758][321]LogPlayLevel: Creating play world package: /Game/FPS/Levels/UEDPIE_0_FeikoGym
+[2019.11.11-20.05.13:809][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050592s)
+[2019.11.11-20.05.13:810][321]LogAIModule: Creating AISystem for world FeikoGym
+[2019.11.11-20.05.13:811][321]LogPlayLevel: PIE: World Init took: (0.001391s)
+[2019.11.11-20.05.13:811][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPS/Levels/FeikoGym.FeikoGym to /Game/FPS/Levels/UEDPIE_0_FeikoGym.FeikoGym (0.052335s)
+[2019.11.11-20.05.13:840][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.11.11-20.05.13:881][321]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.11-20.05.14:043][321]LogInit: FAudioDevice initialized.
+[2019.11.11-20.05.14:053][321]LogLoad: Game class is 'FPS_TDM_GM_C'
+[2019.11.11-20.05.14:058][321]LogWorld: Bringing World /Game/FPS/Levels/UEDPIE_0_FeikoGym.FeikoGym up for play (max tick rate 60) at 2019.11.11-21.05.14
+[2019.11.11-20.05.14:058][321]LogWorld: Bringing up level for play took: 0.003788
+[2019.11.11-20.05.14:059][321]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.11.11-20.05.14:067][321]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.11-20.05.14:067][321]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-20.05.14:067][321]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-20.05.14:067][321]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-20.05.14:068][321]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-20.05.14:068][321]PIE: Play in editor start time for /Game/FPS/Levels/UEDPIE_0_FeikoGym 0.175
+[2019.11.11-20.05.14:068][321]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.05.20:064][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-20.05.25:766][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.05.37:731][731]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.05.37:731][731]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2019.11.11-20.05.37:732][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.05.37:732][731]LogWorld: BeginTearingDown for /Game/FPS/Levels/UEDPIE_0_FeikoGym
+[2019.11.11-20.05.37:732][731]LogWorld: UWorld::CleanupWorld for FeikoGym, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.05.37:744][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-20.05.37:744][731]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.05.37:781][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.05.37:790][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.11.11-20.05.37:841][734]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.11.11-20.05.40:639][879]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.11-20.05.55:393][760]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-20.05.55:401][760]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.05.55:401][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-20.05.55:401][760]PIE: New page: PIE session: FeikoGym (Nov 11, 2019, 10:05:55 PM)
+[2019.11.11-20.05.55:401][760]LogPlayLevel: Creating play world package: /Game/FPS/Levels/UEDPIE_0_FeikoGym
+[2019.11.11-20.05.55:451][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048871s)
+[2019.11.11-20.05.55:451][760]LogAIModule: Creating AISystem for world FeikoGym
+[2019.11.11-20.05.55:452][760]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2019.11.11-20.05.55:452][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPS/Levels/FeikoGym.FeikoGym to /Game/FPS/Levels/UEDPIE_0_FeikoGym.FeikoGym (0.050040s)
+[2019.11.11-20.05.55:480][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.11.11-20.05.55:522][760]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.11-20.05.55:661][760]LogInit: FAudioDevice initialized.
+[2019.11.11-20.05.55:673][760]LogLoad: Game class is 'FPS_TDM_GM_C'
+[2019.11.11-20.05.55:676][760]LogWorld: Bringing World /Game/FPS/Levels/UEDPIE_0_FeikoGym.FeikoGym up for play (max tick rate 60) at 2019.11.11-21.05.55
+[2019.11.11-20.05.55:677][760]LogWorld: Bringing up level for play took: 0.002576
+[2019.11.11-20.05.55:677][760]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.11.11-20.05.55:683][760]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.11-20.05.55:683][760]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-20.05.55:683][760]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-20.05.55:683][760]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-20.05.55:684][760]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-20.05.55:684][760]PIE: Play in editor start time for /Game/FPS/Levels/UEDPIE_0_FeikoGym -0.209
+[2019.11.11-20.05.55:684][760]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.05.56:545][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-20.06.01:400][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.06.05:138][326]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.06.05:139][326]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2019.11.11-20.06.05:139][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.06.05:139][326]LogWorld: BeginTearingDown for /Game/FPS/Levels/UEDPIE_0_FeikoGym
+[2019.11.11-20.06.05:139][326]LogWorld: UWorld::CleanupWorld for FeikoGym, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.06.05:153][326]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-20.06.05:153][326]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.06.05:190][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.06.05:200][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.11.11-20.06.05:248][329]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.11.11-20.06.06:376][395]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.11-20.06.25:304][359]LogEditorViewport: Clicking on Actor (LMB): Penetrable_Board_C (Penetrable_Board5)
+[2019.11.11-20.06.34:747][922]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.11-20.07.10:375][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.11.11-20.07.10:734][977]LogSavePackage: Moving 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/FeikoGym9BBA912547C22AA667F8DEB593AD244D.tmp' to 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Content/FPS/Levels/FeikoGym.umap'
+[2019.11.11-20.08.32:341][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-20.08.57:877][729]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FPS/Blueprints/Game/TeamDeathmatch/FPS_TDM_GM.FPS_TDM_GM
+[2019.11.11-20.08.58:782][729]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 121 classes and 0 folders.
+[2019.11.11-20.09.00:673][729]LogSlate: Took 0.010107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.11-20.09.00:912][730]LogSlate: Took 0.012352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.11-20.09.02:554][818]LogSlate: Window 'FPS_TDM_GM' being destroyed
+[2019.11.11-20.09.45:560][359]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FPS/Blueprints/PlayerController/BaseCharacterPC.BaseCharacterPC
+[2019.11.11-20.10.08:916][557]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2019.11.11-20.10.09:885][585]LogTemp: Repeating last play command: Standalone Game
+[2019.11.11-20.10.09:940][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.11.11-20.10.11:564][585]LogSlate: Window 'Save Content' being destroyed
+[2019.11.11-20.10.12:041][585]LogSavePackage: Moving 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/BaseCharacterPCD5403F304F509FBAFA4043B00F5F99AF.tmp' to 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Content/FPS/Blueprints/PlayerController/BaseCharacterPC.uasset'
+[2019.11.11-20.11.21:697][ 10]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.11-20.11.21:697][ 10]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.11-20.11.24:774][173]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2019.11.11-20.11.26:228][173]LogSlate: Window 'Save Content' being destroyed
+[2019.11.11-20.11.26:236][173]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2019.11.11-20.11.26:262][173]PIE: Warning: PIE failed because map save was canceled
+[2019.11.11-20.11.27:718][256]LogSlate: Window 'Message Log' being destroyed
+[2019.11.11-20.11.27:733][256]LogSlate: Window 'Message Log' being destroyed
+[2019.11.11-20.11.29:123][337]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.11.29:238][337]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.11-20.11.29:364][337]LogPlayLevel: [PlayLevel] Compiling BP_BaseVehicle before play...
+[2019.11.11-20.11.29:429][337]LogPlayLevel: [PlayLevel]   Compiling BaseCharacterPC as a dependent...
+[2019.11.11-20.11.29:597][337]LogPlayLevel: [PlayLevel]   Compiling BP_BaseCharacter as a dependent...
+[2019.11.11-20.11.29:605][337]LogPlayLevel: [PlayLevel]   Compiling ChatWindow as a dependent...
+[2019.11.11-20.11.29:608][337]LogPlayLevel: [PlayLevel]   Compiling WB_CharacterSelection as a dependent...
+[2019.11.11-20.11.29:612][337]LogPlayLevel: [PlayLevel]   Compiling WB_EndGame as a dependent...
+[2019.11.11-20.11.29:617][337]LogPlayLevel: [PlayLevel]   Compiling WB_GameMode as a dependent...
+[2019.11.11-20.11.29:626][337]LogPlayLevel: [PlayLevel]   Compiling WB_Gameplay as a dependent...
+[2019.11.11-20.11.29:629][337]LogPlayLevel: [PlayLevel]   Compiling WB_InGameMenu as a dependent...
+[2019.11.11-20.11.29:631][337]LogPlayLevel: [PlayLevel]   Compiling WB_PlayerScores as a dependent...
+[2019.11.11-20.11.29:633][337]LogPlayLevel: [PlayLevel]   Compiling WB_SettingsMenu as a dependent...
+[2019.11.11-20.11.29:637][337]LogPlayLevel: [PlayLevel]   Compiling BP_BaseAI_Pawn as a dependent...
+[2019.11.11-20.11.29:640][337]LogPlayLevel: [PlayLevel]   Compiling BP_MedicClass_A as a dependent...
+[2019.11.11-20.11.29:640][337]LogPlayLevel: [PlayLevel]   Compiling BP_MedicClass_B as a dependent...
+[2019.11.11-20.11.29:690][337]LogPlayLevel: [PlayLevel]   Compiling FPS_GM as a dependent...
+[2019.11.11-20.11.29:692][337]LogPlayLevel: [PlayLevel]   Compiling FPS_DM_GM as a dependent...
+[2019.11.11-20.11.31:027][337]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2019.11.11-20.11.31:028][337]LogPlayLevel: PlayLevel: Blueprint regeneration took 1790 ms (16 blueprints)
+[2019.11.11-20.11.31:028][337]PIE: New page: PIE session: FeikoGym (Nov 11, 2019, 10:11:31 PM)
+[2019.11.11-20.11.31:029][337]LogPlayLevel: Creating play world package: /Game/FPS/Levels/UEDPIE_0_FeikoGym
+[2019.11.11-20.11.31:080][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051249s)
+[2019.11.11-20.11.31:081][337]LogAIModule: Creating AISystem for world FeikoGym
+[2019.11.11-20.11.31:082][337]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2019.11.11-20.11.31:082][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPS/Levels/FeikoGym.FeikoGym to /Game/FPS/Levels/UEDPIE_0_FeikoGym.FeikoGym (0.052455s)
+[2019.11.11-20.11.31:121][337]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.11.11-20.11.31:162][337]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.11-20.11.31:297][337]LogInit: FAudioDevice initialized.
+[2019.11.11-20.11.31:305][337]LogLoad: Game class is 'FPS_TDM_GM_C'
+[2019.11.11-20.11.31:309][337]LogWorld: Bringing World /Game/FPS/Levels/UEDPIE_0_FeikoGym.FeikoGym up for play (max tick rate 60) at 2019.11.11-21.11.31
+[2019.11.11-20.11.31:309][337]LogWorld: Bringing up level for play took: 0.002988
+[2019.11.11-20.11.31:310][337]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.11.11-20.11.31:316][337]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.11-20.11.31:317][337]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-20.11.31:317][337]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-20.11.31:317][337]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-20.11.31:318][337]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-20.11.31:318][337]PIE: Play in editor start time for /Game/FPS/Levels/UEDPIE_0_FeikoGym 1.424
+[2019.11.11-20.11.31:318][337]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.11.32:916][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-20.11.32:984][412]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.11.32:985][412]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2019.11.11-20.11.32:985][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.11.32:985][412]LogWorld: BeginTearingDown for /Game/FPS/Levels/UEDPIE_0_FeikoGym
+[2019.11.11-20.11.32:985][412]LogWorld: UWorld::CleanupWorld for FeikoGym, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.11.32:994][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-20.11.32:994][412]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.11.33:043][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.11.33:055][412]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.11.11-20.11.33:088][414]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.11.11-20.11.36:881][641]LogEditorViewport: Clicking on Actor (LMB): Penetrable_Board_C (Penetrable_Board5)
+[2019.11.11-20.11.38:419][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-20.11.40:381][835]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FPS/Blueprints/Penetrable/Penetrable_Board.Penetrable_Board
+[2019.11.11-20.12.58:427][353]LogEditorTransaction: Undo Move Node
+[2019.11.11-20.14.36:759][151]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2019.11.11-20.14.38:546][151]LogSlate: Window 'Save Content' being destroyed
+[2019.11.11-20.14.39:208][151]LogSavePackage: Moving 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/FPS_GMFC43436B4E7D0C18820C1CB3AC94FA25.tmp' to 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Content/FPS/Blueprints/Game/FPS_GM.uasset'
+[2019.11.11-20.14.39:323][151]LogSavePackage: Moving 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/Penetrable_BoardA2B45B9D45AA48AA16FE81A1DF1484DC.tmp' to 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Content/FPS/Blueprints/Penetrable/Penetrable_Board.uasset'
+[2019.11.11-20.14.39:479][151]LogSavePackage: Moving 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/BaseCharacterPCC907776A4C659C2A23026E9B72BBE5FD.tmp' to 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Content/FPS/Blueprints/PlayerController/BaseCharacterPC.uasset'
+[2019.11.11-20.14.39:758][151]LogSavePackage: Moving 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/WB_CharacterSelectionF2116F4949ED24A98DE6139657AC2E74.tmp' to 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Content/FPS/Blueprints/WidgetBP/WB_CharacterSelection.uasset'
+[2019.11.11-20.22.34:406][370]LogEditorViewport: Clicking on Actor (LMB): Penetrable_Board_C (Penetrable_Board5)
+[2019.11.11-20.22.38:047][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-20.22.40:114][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-20.22.40:255][696]LogActorFactory: Actor Factory created Cube
+[2019.11.11-20.22.40:667][719]LogActorFactory: Actor Factory created Cube
+[2019.11.11-20.22.44:882][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-20.22.59:727][848]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FPS/Blueprints/Weapons/BP_MedicWeapon.BP_MedicWeapon
+[2019.11.11-20.23.14:809][685]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.23.14:924][685]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FPS/Blueprints/Weapons/BP_MedicWeapon.BP_MedicWeapon
+[2019.11.11-20.23.21:460][ 37]LogRenderer: Reallocating scene render targets to support 1208x708 Format 10 NumSamples 1 (Frame:1).
+[2019.11.11-20.23.24:816][236]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.23.26:956][352]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FPS/Blueprints/Weapons/BP_BaseWeapon.BP_BaseWeapon
+[2019.11.11-20.24.15:539][181]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.24.37:980][522]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.24.37:980][522]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.11-20.24.38:003][522]LogPlayLevel: [PlayLevel] Compiling BP_Bomb before play...
+[2019.11.11-20.24.38:003][522]LogPlayLevel: [PlayLevel]   Compiling FeikoGym as a dependent...
+[2019.11.11-20.24.38:003][522]LogPlayLevel: [PlayLevel]   Compiling AI_PlayerController as a dependent...
+[2019.11.11-20.24.38:052][522]LogPlayLevel: [PlayLevel]   Compiling BaseCharacterPC as a dependent...
+[2019.11.11-20.24.38:193][522]LogPlayLevel: [PlayLevel]   Compiling BP_BaseCharacter as a dependent...
+[2019.11.11-20.24.38:196][522]LogPlayLevel: [PlayLevel]   Compiling WB_CharacterSelection as a dependent...
+[2019.11.11-20.24.38:203][522]LogPlayLevel: [PlayLevel]   Compiling BP_BaseAI_Pawn as a dependent...
+[2019.11.11-20.24.38:240][522]LogPlayLevel: [PlayLevel]   Compiling FPS_GM as a dependent...
+[2019.11.11-20.24.38:282][522]LogPlayLevel: [PlayLevel]   Compiling FPS_GS as a dependent...
+[2019.11.11-20.24.38:282][522]LogPlayLevel: [PlayLevel]   Compiling FPS_Conquest_GM as a dependent...
+[2019.11.11-20.24.38:292][522]LogPlayLevel: [PlayLevel]   Compiling FPS_Conquest_GS as a dependent...
+[2019.11.11-20.24.38:296][522]LogPlayLevel: [PlayLevel]   Compiling FPS_CTF_GS as a dependent...
+[2019.11.11-20.24.38:299][522]LogPlayLevel: [PlayLevel]   Compiling FPS_DM_GM as a dependent...
+[2019.11.11-20.24.38:310][522]LogPlayLevel: [PlayLevel]   Compiling FPS_DM_GS as a dependent...
+[2019.11.11-20.24.38:322][522]LogPlayLevel: [PlayLevel]   Compiling FPS_Rush_GS as a dependent...
+[2019.11.11-20.24.38:322][522]LogPlayLevel: [PlayLevel]   Compiling FPS_TDM_GM as a dependent...
+[2019.11.11-20.24.38:331][522]LogPlayLevel: [PlayLevel]   Compiling FPS_TDM_GS as a dependent...
+[2019.11.11-20.24.39:312][522]LogPlayLevel: [PlayLevel] Compiling BP_BaseWeapon before play...
+[2019.11.11-20.24.39:312][522]LogPlayLevel: [PlayLevel]   Compiling BP_AssaultWeapon as a dependent...
+[2019.11.11-20.24.39:312][522]LogPlayLevel: [PlayLevel]   Compiling BP_MedicWeapon as a dependent...
+[2019.11.11-20.24.39:312][522]LogPlayLevel: [PlayLevel]   Compiling BP_OfficialWeapon as a dependent...
+[2019.11.11-20.24.39:312][522]LogPlayLevel: [PlayLevel]   Compiling BP_SecondaryWeaponTest as a dependent...
+[2019.11.11-20.24.39:312][522]LogPlayLevel: [PlayLevel]   Compiling BP_ShotgunWeapon as a dependent...
+[2019.11.11-20.24.39:312][522]LogPlayLevel: [PlayLevel]   Compiling BP_SupportWeapon as a dependent...
+[2019.11.11-20.24.39:762][522]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2019.11.11-20.24.39:763][522]LogPlayLevel: PlayLevel: Blueprint regeneration took 1782 ms (24 blueprints)
+[2019.11.11-20.24.39:763][522]PIE: New page: PIE session: FeikoGym (Nov 11, 2019, 10:24:39 PM)
+[2019.11.11-20.24.39:764][522]LogPlayLevel: Creating play world package: /Game/FPS/Levels/UEDPIE_0_FeikoGym
+[2019.11.11-20.24.39:816][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051572s)
+[2019.11.11-20.24.39:817][522]LogAIModule: Creating AISystem for world FeikoGym
+[2019.11.11-20.24.39:817][522]LogPlayLevel: PIE: World Init took: (0.001327s)
+[2019.11.11-20.24.39:817][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPS/Levels/FeikoGym.FeikoGym to /Game/FPS/Levels/UEDPIE_0_FeikoGym.FeikoGym (0.053071s)
+[2019.11.11-20.24.39:861][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.11.11-20.24.39:906][522]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.11-20.24.40:042][522]LogInit: FAudioDevice initialized.
+[2019.11.11-20.24.40:055][522]LogLoad: Game class is 'FPS_TDM_GM_C'
+[2019.11.11-20.24.40:059][522]LogWorld: Bringing World /Game/FPS/Levels/UEDPIE_0_FeikoGym.FeikoGym up for play (max tick rate 60) at 2019.11.11-21.24.40
+[2019.11.11-20.24.40:060][522]LogWorld: Bringing up level for play took: 0.002875
+[2019.11.11-20.24.40:060][522]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2019.11.11-20.24.40:066][522]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.11-20.24.40:066][522]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-20.24.40:066][522]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-20.24.40:066][522]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-20.24.40:067][522]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-20.24.40:067][522]PIE: Play in editor start time for /Game/FPS/Levels/UEDPIE_0_FeikoGym 2.174
+[2019.11.11-20.24.40:067][522]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.24.41:287][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-20.24.41:371][598]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.24.41:372][598]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2019.11.11-20.24.41:372][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.24.41:372][598]LogWorld: BeginTearingDown for /Game/FPS/Levels/UEDPIE_0_FeikoGym
+[2019.11.11-20.24.41:372][598]LogWorld: UWorld::CleanupWorld for FeikoGym, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.24.41:394][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-20.24.41:394][598]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.24.41:448][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.24.41:459][598]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.11.11-20.24.41:480][599]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.11.11-20.24.49:314][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-20.26.14:593][961]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FPS/Blueprints/GameInstance/FPS_GameInstance.FPS_GameInstance
+[2019.11.11-20.27.18:085][609]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2019.11.11-20.27.18:585][609]LogSavePackage: Moving 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/FeikoGym_Auto18A3B7F0641D36018E7E022837F1D7CDC.tmp' to 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/Autosaves/Game/FPS/Levels/FeikoGym_Auto1.umap'
+[2019.11.11-20.27.18:590][609]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FPS/Levels/FeikoGym' took 0.586
+[2019.11.11-20.27.18:591][609]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.586
+[2019.11.11-20.27.18:594][609]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPS/Blueprints/PlayerController/BaseCharacterPC] ([1] browsable assets)...
+[2019.11.11-20.27.18:594][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/Blueprints/PlayerController/BaseCharacterPC]
+[2019.11.11-20.27.18:754][609]LogSavePackage: Moving 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/BaseCharacterPC_Auto1A2C9D8534FBC750D7DAA6D93F24F8A77.tmp' to 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/Autosaves/Game/FPS/Blueprints/PlayerController/BaseCharacterPC_Auto1.uasset'
+[2019.11.11-20.27.18:756][609]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS/Blueprints/Weapons/BP_BaseWeapon] ([1] browsable assets)...
+[2019.11.11-20.27.18:772][609]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FPS/Blueprints/Weapons/BP_BaseWeapon.BP_BaseWeapon]
+[2019.11.11-20.27.18:772][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/Blueprints/Weapons/BP_BaseWeapon]
+[2019.11.11-20.27.18:827][609]LogSavePackage: Moving 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/BP_BaseWeapon_Auto1A162E00E4C645F974589F8A24AF30219.tmp' to 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/Autosaves/Game/FPS/Blueprints/Weapons/BP_BaseWeapon_Auto1.uasset'
+[2019.11.11-20.27.18:830][609]LogFileHelpers: Auto-saving content packages took 0.237
+[2019.11.11-20.28.08:098][459]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FPS/Blueprints/Game/FPS_PlayerState.FPS_PlayerState
+[2019.11.11-20.28.37:896][128]LogSavePackage: Moving 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/BaseCharacterPCD2883FF44470C4EC2E7779BFF3B1DEEC.tmp' to 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Content/FPS/Blueprints/PlayerController/BaseCharacterPC.uasset'
+[2019.11.11-20.29.32:924][415]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FPS/Blueprints/Misc/Bullets/BP_Bullet.BP_Bullet
+[2019.11.11-20.30.43:396][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2019.11.11-20.30.47:363][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-20.30.54:571][224]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-20.30.54:608][224]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.30.54:608][224]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.11-20.30.54:617][224]LogPlayLevel: [PlayLevel] Compiling BP_MedicClass_A before play...
+[2019.11.11-20.30.55:013][224]LogPlayLevel: [PlayLevel] Compiling BP_MedicClass_B before play...
+[2019.11.11-20.30.55:385][224]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2019.11.11-20.30.55:385][224]LogPlayLevel: PlayLevel: Blueprint regeneration took 776 ms (2 blueprints)
+[2019.11.11-20.30.55:385][224]PIE: New page: PIE session: FeikoGym (Nov 11, 2019, 10:30:55 PM)
+[2019.11.11-20.30.55:386][224]LogPlayLevel: Creating play world package: /Game/FPS/Levels/UEDPIE_0_FeikoGym
+[2019.11.11-20.30.55:434][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047982s)
+[2019.11.11-20.30.55:435][224]LogAIModule: Creating AISystem for world FeikoGym
+[2019.11.11-20.30.55:436][224]LogPlayLevel: PIE: World Init took: (0.001317s)
+[2019.11.11-20.30.55:436][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPS/Levels/FeikoGym.FeikoGym to /Game/FPS/Levels/UEDPIE_0_FeikoGym.FeikoGym (0.049563s)
+[2019.11.11-20.30.55:488][224]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2019.11.11-20.30.55:528][224]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.11-20.30.55:697][224]LogInit: FAudioDevice initialized.
+[2019.11.11-20.30.55:707][224]LogLoad: Game class is 'FPS_TDM_GM_C'
+[2019.11.11-20.30.55:710][224]LogWorld: Bringing World /Game/FPS/Levels/UEDPIE_0_FeikoGym.FeikoGym up for play (max tick rate 60) at 2019.11.11-21.30.55
+[2019.11.11-20.30.55:711][224]LogWorld: Bringing up level for play took: 0.002728
+[2019.11.11-20.30.55:711][224]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2019.11.11-20.30.55:717][224]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.11-20.30.55:717][224]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-20.30.55:717][224]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-20.30.55:717][224]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-20.30.55:718][224]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-20.30.55:718][224]PIE: Play in editor start time for /Game/FPS/Levels/UEDPIE_0_FeikoGym 1.826
+[2019.11.11-20.30.55:718][224]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.30.56:882][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-20.31.01:351][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.31.33:120][445]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.31.33:120][445]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2019.11.11-20.31.33:121][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.31.33:121][445]LogWorld: BeginTearingDown for /Game/FPS/Levels/UEDPIE_0_FeikoGym
+[2019.11.11-20.31.33:121][445]LogWorld: UWorld::CleanupWorld for FeikoGym, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.31.33:130][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-20.31.33:130][445]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.31.33:201][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.31.33:212][445]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2019.11.11-20.31.33:233][446]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.11.11-20.31.34:621][505]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.11-20.31.34:679][505]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.11-20.32.34:960][ 41]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FPS/Blueprints/CharacterAndClasses/BP_BaseCharacter.BP_BaseCharacter
+[2019.11.11-20.34.19:637][629]LogSavePackage: Moving 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/BP_BaseCharacter75D7B380423EB890D80BAA8151AC85A8.tmp' to 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Content/FPS/Blueprints/CharacterAndClasses/BP_BaseCharacter.uasset'
+[2019.11.11-20.36.14:819][660]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-20.36.14:867][660]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.36.14:867][660]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.11-20.36.14:926][660]LogPlayLevel: [PlayLevel] Compiling BP_BaseFlag before play...
+[2019.11.11-20.36.14:932][660]LogPlayLevel: [PlayLevel]   Compiling BP_Bullet as a dependent...
+[2019.11.11-20.36.14:935][660]LogPlayLevel: [PlayLevel]   Compiling BP_ConquestCapturePoint as a dependent...
+[2019.11.11-20.36.14:940][660]LogPlayLevel: [PlayLevel]   Compiling BP_Mine as a dependent...
+[2019.11.11-20.36.14:940][660]LogPlayLevel: [PlayLevel]   Compiling BP_SpawnProtectedZone as a dependent...
+[2019.11.11-20.36.14:940][660]LogPlayLevel: [PlayLevel]   Compiling HeroFPP_AnimationBlueprint as a dependent...
+[2019.11.11-20.36.14:940][660]LogPlayLevel: [PlayLevel]   Compiling HeroTPP_AnimBlueprint as a dependent...
+[2019.11.11-20.36.15:071][660]LogPlayLevel: [PlayLevel]   Compiling Magazine as a dependent...
+[2019.11.11-20.36.15:071][660]LogPlayLevel: [PlayLevel]   Compiling UE4ASP_HeroTPP_AnimBlueprint as a dependent...
+[2019.11.11-20.36.15:071][660]LogPlayLevel: [PlayLevel]   Compiling AmmoBox as a dependent...
+[2019.11.11-20.36.15:108][660]LogPlayLevel: [PlayLevel]   Compiling BP_BaseVehicle as a dependent...
+[2019.11.11-20.36.15:112][660]LogPlayLevel: [PlayLevel]   Compiling BP_Bomb as a dependent...
+[2019.11.11-20.36.15:112][660]LogPlayLevel: [PlayLevel]   Compiling BP_StickyGrenade as a dependent...
+[2019.11.11-20.36.15:118][660]LogPlayLevel: [PlayLevel]   Compiling BP_WeaponInteractable as a dependent...
+[2019.11.11-20.36.15:164][660]LogPlayLevel: [PlayLevel]   Compiling BaseCharacterPC as a dependent...
+[2019.11.11-20.36.15:287][660]LogPlayLevel: [PlayLevel]   Compiling BP_BaseCharacter as a dependent...
+[2019.11.11-20.36.15:296][660]LogPlayLevel: [PlayLevel]   Compiling BP_MedicBot as a dependent...
+[2019.11.11-20.36.15:296][660]LogPlayLevel: [PlayLevel]   Compiling BTTask_BombInteract as a dependent...
+[2019.11.11-20.36.15:296][660]LogPlayLevel: [PlayLevel]   Compiling BTTask_Fire as a dependent...
+[2019.11.11-20.36.15:296][660]LogPlayLevel: [PlayLevel]   Compiling BTTask_ReloadWeapon as a dependent...
+[2019.11.11-20.36.15:304][660]LogPlayLevel: [PlayLevel]   Compiling ChatWindow as a dependent...
+[2019.11.11-20.36.15:346][660]LogPlayLevel: [PlayLevel]   Compiling WB_Gameplay as a dependent...
+[2019.11.11-20.36.15:348][660]LogPlayLevel: [PlayLevel]   Compiling BP_AssaultClass_A as a dependent...
+[2019.11.11-20.36.15:350][660]LogPlayLevel: [PlayLevel]   Compiling BP_AssaultClass_B as a dependent...
+[2019.11.11-20.36.15:358][660]LogPlayLevel: [PlayLevel]   Compiling BP_BaseAI_Pawn as a dependent...
+[2019.11.11-20.36.15:362][660]LogPlayLevel: [PlayLevel]   Compiling BP_MedicClass_A as a dependent...
+[2019.11.11-20.36.15:365][660]LogPlayLevel: [PlayLevel]   Compiling BP_MedicClass_B as a dependent...
+[2019.11.11-20.36.15:367][660]LogPlayLevel: [PlayLevel]   Compiling BP_OfficialClass_A as a dependent...
+[2019.11.11-20.36.15:369][660]LogPlayLevel: [PlayLevel]   Compiling BP_OfficialClass_B as a dependent...
+[2019.11.11-20.36.15:372][660]LogPlayLevel: [PlayLevel]   Compiling BP_SupportClass_A as a dependent...
+[2019.11.11-20.36.15:374][660]LogPlayLevel: [PlayLevel]   Compiling BP_SupportClass_B as a dependent...
+[2019.11.11-20.36.15:374][660]LogPlayLevel: [PlayLevel]   Compiling BTService_BlueprintCheckBomb as a dependent...
+[2019.11.11-20.36.15:374][660]LogPlayLevel: [PlayLevel]   Compiling BTService_BlueprintGetenemy as a dependent...
+[2019.11.11-20.36.15:374][660]LogPlayLevel: [PlayLevel]   Compiling BTService_CanShoot as a dependent...
+[2019.11.11-20.36.15:374][660]LogPlayLevel: [PlayLevel]   Compiling BTService_CheckAmmo as a dependent...
+[2019.11.11-20.36.15:374][660]LogPlayLevel: [PlayLevel]   Compiling BTService_CheckFlagsState as a dependent...
+[2019.11.11-20.36.15:374][660]LogPlayLevel: [PlayLevel]   Compiling BTService_FindCarrier as a dependent...
+[2019.11.11-20.36.15:374][660]LogPlayLevel: [PlayLevel]   Compiling BTService_FindClosestFlag as a dependent...
+[2019.11.11-20.36.15:374][660]LogPlayLevel: [PlayLevel]   Compiling BTService_FindRandomEnemy as a dependent...
+[2019.11.11-20.36.15:374][660]LogPlayLevel: [PlayLevel]   Compiling BTService_FindRandomPlayer as a dependent...
+[2019.11.11-20.36.15:374][660]LogPlayLevel: [PlayLevel]   Compiling BTService_GetEnemy_DM as a dependent...
+[2019.11.11-20.36.15:374][660]LogPlayLevel: [PlayLevel]   Compiling BTService_NextLocationFlag as a dependent...
+[2019.11.11-20.36.15:374][660]LogPlayLevel: [PlayLevel]   Compiling BTService_SecureTeamFlag as a dependent...
+[2019.11.11-20.36.15:413][660]LogPlayLevel: [PlayLevel]   Compiling FPS_GM as a dependent...
+[2019.11.11-20.36.15:413][660]LogPlayLevel: [PlayLevel]   Compiling BP_AI_Pawn_A as a dependent...
+[2019.11.11-20.36.15:413][660]LogPlayLevel: [PlayLevel]   Compiling BP_AI_Pawn_B as a dependent...
+[2019.11.11-20.36.16:977][660]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2019.11.11-20.36.16:977][660]LogPlayLevel: PlayLevel: Blueprint regeneration took 2110 ms (46 blueprints)
+[2019.11.11-20.36.16:977][660]PIE: New page: PIE session: FeikoGym (Nov 11, 2019, 10:36:16 PM)
+[2019.11.11-20.36.16:979][660]LogPlayLevel: Creating play world package: /Game/FPS/Levels/UEDPIE_0_FeikoGym
+[2019.11.11-20.36.17:031][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052219s)
+[2019.11.11-20.36.17:032][660]LogAIModule: Creating AISystem for world FeikoGym
+[2019.11.11-20.36.17:032][660]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2019.11.11-20.36.17:032][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPS/Levels/FeikoGym.FeikoGym to /Game/FPS/Levels/UEDPIE_0_FeikoGym.FeikoGym (0.053328s)
+[2019.11.11-20.36.17:091][660]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2019.11.11-20.36.17:132][660]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.11-20.36.17:282][660]LogInit: FAudioDevice initialized.
+[2019.11.11-20.36.17:320][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.36.17:323][660]LogLoad: Game class is 'FPS_TDM_GM_C'
+[2019.11.11-20.36.17:330][660]LogWorld: Bringing World /Game/FPS/Levels/UEDPIE_0_FeikoGym.FeikoGym up for play (max tick rate 60) at 2019.11.11-21.36.17
+[2019.11.11-20.36.17:331][660]LogWorld: Bringing up level for play took: 0.007050
+[2019.11.11-20.36.17:331][660]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2019.11.11-20.36.17:338][660]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.11-20.36.17:338][660]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-20.36.17:338][660]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-20.36.17:338][660]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-20.36.17:339][660]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-20.36.17:340][660]PIE: Play in editor start time for /Game/FPS/Levels/UEDPIE_0_FeikoGym 3.447
+[2019.11.11-20.36.17:340][660]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.36.18:429][661]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.11.11-20.36.19:655][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-20.36.24:051][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.36.42:161][936]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.36.42:162][936]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2019.11.11-20.36.42:162][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.36.42:162][936]LogWorld: BeginTearingDown for /Game/FPS/Levels/UEDPIE_0_FeikoGym
+[2019.11.11-20.36.42:171][936]LogSlate: Window 'Feikoardastianfield Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.11-20.36.42:180][936]LogWorld: UWorld::CleanupWorld for FeikoGym, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.36.42:194][936]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-20.36.42:194][936]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.36.42:278][936]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2019.11.11-20.36.42:303][937]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.11.11-20.37.52:145][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2019.11.11-20.37.55:620][811]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-20.38.01:979][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-20.38.02:062][197]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-20.38.02:106][197]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.38.02:106][197]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.11-20.38.02:112][197]LogPlayLevel: [PlayLevel] Compiling FPS_DM_GM before play...
+[2019.11.11-20.38.02:190][197]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2019.11.11-20.38.02:191][197]LogPlayLevel: PlayLevel: Blueprint regeneration took 84 ms (1 blueprints)
+[2019.11.11-20.38.02:191][197]PIE: New page: PIE session: FeikoGym (Nov 11, 2019, 10:38:02 PM)
+[2019.11.11-20.38.02:191][197]LogPlayLevel: Creating play world package: /Game/FPS/Levels/UEDPIE_0_FeikoGym
+[2019.11.11-20.38.02:243][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051628s)
+[2019.11.11-20.38.02:244][197]LogAIModule: Creating AISystem for world FeikoGym
+[2019.11.11-20.38.02:245][197]LogPlayLevel: PIE: World Init took: (0.001400s)
+[2019.11.11-20.38.02:245][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPS/Levels/FeikoGym.FeikoGym to /Game/FPS/Levels/UEDPIE_0_FeikoGym.FeikoGym (0.053215s)
+[2019.11.11-20.38.02:303][197]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2019.11.11-20.38.02:348][197]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.11-20.38.02:503][197]LogInit: FAudioDevice initialized.
+[2019.11.11-20.38.02:510][197]LogLoad: Game class is 'FPS_TDM_GM_C'
+[2019.11.11-20.38.02:514][197]LogWorld: Bringing World /Game/FPS/Levels/UEDPIE_0_FeikoGym.FeikoGym up for play (max tick rate 60) at 2019.11.11-21.38.02
+[2019.11.11-20.38.02:514][197]LogWorld: Bringing up level for play took: 0.003071
+[2019.11.11-20.38.02:515][197]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2019.11.11-20.38.02:520][197]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.11-20.38.02:521][197]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-20.38.02:521][197]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-20.38.02:521][197]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-20.38.02:522][197]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-20.38.02:522][197]PIE: Play in editor start time for /Game/FPS/Levels/UEDPIE_0_FeikoGym 0.629
+[2019.11.11-20.38.02:522][197]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.38.03:521][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-20.38.08:158][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.38.18:305][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_Gameplay_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0
+	Function /Game/FPS/Blueprints/WidgetBP/WB_Gameplay.WB_Gameplay_C:GetGameModeConquestStateVisibility:0078
+[2019.11.11-20.38.18:305][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_Gameplay_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0
+	Function /Game/FPS/Blueprints/WidgetBP/WB_Gameplay.WB_Gameplay_C:GetGameModeConquestStateVisibility:0078
+[2019.11.11-20.38.18:305][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_Gameplay_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0
+	Function /Game/FPS/Blueprints/WidgetBP/WB_Gameplay.WB_Gameplay_C:GetGameModeConquestStateVisibility:0078
+[2019.11.11-20.38.18:306][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_Gameplay_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0
+	Function /Game/FPS/Blueprints/WidgetBP/WB_Gameplay.WB_Gameplay_C:GetObjective:0079
+[2019.11.11-20.38.18:306][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_Gameplay_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0
+	Function /Game/FPS/Blueprints/WidgetBP/WB_Gameplay.WB_Gameplay_C:GetObjective:00BD
+[2019.11.11-20.38.18:306][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_Gameplay_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0
+	Function /Game/FPS/Blueprints/WidgetBP/WB_Gameplay.WB_Gameplay_C:GetObjective:0101
+[2019.11.11-20.38.18:306][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_Gameplay_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0
+	Function /Game/FPS/Blueprints/WidgetBP/WB_Gameplay.WB_Gameplay_C:GetObjective:0145
+[2019.11.11-20.38.18:306][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_Gameplay_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0
+	Function /Game/FPS/Blueprints/WidgetBP/WB_Gameplay.WB_Gameplay_C:GetObjective:0189
+[2019.11.11-20.38.18:306][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_GameMode_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0.WidgetTree_0.WB_GameMode
+	Function /Game/FPS/Blueprints/WidgetBP/GameMode/WB_GameMode.WB_GameMode_C:GetMatchTime:0106
+[2019.11.11-20.38.18:306][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFPS_GS
+	WB_GameMode_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0.WidgetTree_0.WB_GameMode
+	Function /Game/FPS/Blueprints/WidgetBP/GameMode/WB_GameMode.WB_GameMode_C:GetMatchTime:015E
+[2019.11.11-20.38.18:306][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_Gameplay_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0
+	Function /Game/FPS/Blueprints/WidgetBP/WB_Gameplay.WB_Gameplay_C:GetGameModeConquestStateVisibility:0078
+[2019.11.11-20.38.18:306][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_Gameplay_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0
+	Function /Game/FPS/Blueprints/WidgetBP/WB_Gameplay.WB_Gameplay_C:GetGameModeConquestStateVisibility:0078
+[2019.11.11-20.38.18:306][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_Gameplay_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0
+	Function /Game/FPS/Blueprints/WidgetBP/WB_Gameplay.WB_Gameplay_C:GetGameModeConquestStateVisibility:0078
+[2019.11.11-20.38.18:306][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_Gameplay_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0
+	Function /Game/FPS/Blueprints/WidgetBP/WB_Gameplay.WB_Gameplay_C:GetGameModeConquestStateVisibility:0078
+[2019.11.11-20.38.18:306][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_Gameplay_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0
+	Function /Game/FPS/Blueprints/WidgetBP/WB_Gameplay.WB_Gameplay_C:GetGameModeConquestStateVisibility:0078
+[2019.11.11-20.38.18:306][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_Gameplay_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0
+	Function /Game/FPS/Blueprints/WidgetBP/WB_Gameplay.WB_Gameplay_C:GetGameModeConquestStateVisibility:0078
+[2019.11.11-20.38.18:308][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_Gameplay_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0
+	Function /Game/FPS/Blueprints/WidgetBP/WB_Gameplay.WB_Gameplay_C:GetGameModeConquestStateVisibility:0078
+[2019.11.11-20.38.18:308][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_Gameplay_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0
+	Function /Game/FPS/Blueprints/WidgetBP/WB_Gameplay.WB_Gameplay_C:GetGameModeConquestStateVisibility:0078
+[2019.11.11-20.38.18:308][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_Gameplay_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0
+	Function /Game/FPS/Blueprints/WidgetBP/WB_Gameplay.WB_Gameplay_C:GetGameModeConquestStateVisibility:0078
+[2019.11.11-20.38.18:316][121]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_GameMode_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0.WidgetTree_0.WB_GameMode
+	Function /Game/FPS/Blueprints/WidgetBP/GameMode/WB_GameMode.WB_GameMode_C:GetMatchTime:0106
+[2019.11.11-20.38.18:316][121]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFPS_GS
+	WB_GameMode_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0.WidgetTree_0.WB_GameMode
+	Function /Game/FPS/Blueprints/WidgetBP/GameMode/WB_GameMode.WB_GameMode_C:GetMatchTime:015E
+[2019.11.11-20.38.18:334][122]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_GameMode_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0.WidgetTree_0.WB_GameMode
+	Function /Game/FPS/Blueprints/WidgetBP/GameMode/WB_GameMode.WB_GameMode_C:GetMatchTime:0106
+[2019.11.11-20.38.18:334][122]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFPS_GS
+	WB_GameMode_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0.WidgetTree_0.WB_GameMode
+	Function /Game/FPS/Blueprints/WidgetBP/GameMode/WB_GameMode.WB_GameMode_C:GetMatchTime:015E
+[2019.11.11-20.38.18:350][123]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_GameMode_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0.WidgetTree_0.WB_GameMode
+	Function /Game/FPS/Blueprints/WidgetBP/GameMode/WB_GameMode.WB_GameMode_C:GetMatchTime:0106
+[2019.11.11-20.38.18:350][123]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFPS_GS
+	WB_GameMode_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0.WidgetTree_0.WB_GameMode
+	Function /Game/FPS/Blueprints/WidgetBP/GameMode/WB_GameMode.WB_GameMode_C:GetMatchTime:015E
+[2019.11.11-20.38.18:367][124]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_GameMode_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0.WidgetTree_0.WB_GameMode
+	Function /Game/FPS/Blueprints/WidgetBP/GameMode/WB_GameMode.WB_GameMode_C:GetMatchTime:0106
+[2019.11.11-20.38.18:367][124]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFPS_GS
+	WB_GameMode_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0.WidgetTree_0.WB_GameMode
+	Function /Game/FPS/Blueprints/WidgetBP/GameMode/WB_GameMode.WB_GameMode_C:GetMatchTime:015E
+[2019.11.11-20.38.18:384][125]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_GameMode_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0.WidgetTree_0.WB_GameMode
+	Function /Game/FPS/Blueprints/WidgetBP/GameMode/WB_GameMode.WB_GameMode_C:GetMatchTime:0106
+[2019.11.11-20.38.18:384][125]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFPS_GS
+	WB_GameMode_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0.WidgetTree_0.WB_GameMode
+	Function /Game/FPS/Blueprints/WidgetBP/GameMode/WB_GameMode.WB_GameMode_C:GetMatchTime:015E
+[2019.11.11-20.38.18:401][126]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_GameMode_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0.WidgetTree_0.WB_GameMode
+	Function /Game/FPS/Blueprints/WidgetBP/GameMode/WB_GameMode.WB_GameMode_C:GetMatchTime:0106
+[2019.11.11-20.38.18:401][126]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFPS_GS
+	WB_GameMode_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0.WidgetTree_0.WB_GameMode
+	Function /Game/FPS/Blueprints/WidgetBP/GameMode/WB_GameMode.WB_GameMode_C:GetMatchTime:015E
+[2019.11.11-20.38.18:417][127]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_GameMode_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0.WidgetTree_0.WB_GameMode
+	Function /Game/FPS/Blueprints/WidgetBP/GameMode/WB_GameMode.WB_GameMode_C:GetMatchTime:0106
+[2019.11.11-20.38.18:417][127]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFPS_GS
+	WB_GameMode_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0.WidgetTree_0.WB_GameMode
+	Function /Game/FPS/Blueprints/WidgetBP/GameMode/WB_GameMode.WB_GameMode_C:GetMatchTime:015E
+[2019.11.11-20.38.18:434][128]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBase_Character_PC
+	WB_GameMode_C /Engine/Transient.UnrealEdEngine_0:FPS_GameInstance_C_8.WB_Gameplay_C_0.WidgetTree_0.WB_GameMode
+	Function /Game/FPS/Blueprints/WidgetBP/GameMode/WB_GameMode.WB_GameMode_C:GetMatchTime:0106
+[2019.11.11-20.38.23:211][408]Set new viewmode: Wireframe
+[2019.11.11-20.38.24:125][463]Set new viewmode: Wireframe
+[2019.11.11-20.38.25:025][517]Set new viewmode: Wireframe
+[2019.11.11-20.38.25:391][539]Set new viewmode: Wireframe
+[2019.11.11-20.38.25:624][553]Set new viewmode: Unlit
+[2019.11.11-20.38.27:942][692]Set new viewmode: Lit
+[2019.11.11-20.38.30:460][843]Set new viewmode: Lit_DetailLighting
+[2019.11.11-20.38.57:372][437]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.38.57:372][437]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2019.11.11-20.38.57:373][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.38.57:373][437]LogWorld: BeginTearingDown for /Game/FPS/Levels/UEDPIE_0_FeikoGym
+[2019.11.11-20.38.57:373][437]LogWorld: UWorld::CleanupWorld for FeikoGym, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.38.57:388][437]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-20.38.57:388][437]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.38.57:460][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.38.57:472][437]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.11.11-20.38.57:492][438]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.11.11-20.39.08:851][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-20.39.09:058][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.11.11-20.39.09:545][126]LogSavePackage: Moving 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/FeikoGymE8AEB48D445F6F2D018721A2305ABB7B.tmp' to 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Content/FPS/Levels/FeikoGym.umap'
+[2019.11.11-20.39.11:820][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2019.11.11-20.39.20:011][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-20.39.48:643][422]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-20.39.48:690][422]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.39.48:690][422]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.11-20.39.48:703][422]LogPlayLevel: [PlayLevel] Compiling BP_Bullet before play...
+[2019.11.11-20.39.49:248][422]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2019.11.11-20.39.49:248][422]LogPlayLevel: PlayLevel: Blueprint regeneration took 557 ms (1 blueprints)
+[2019.11.11-20.39.49:248][422]PIE: New page: PIE session: FeikoGym (Nov 11, 2019, 10:39:49 PM)
+[2019.11.11-20.39.49:249][422]LogPlayLevel: Creating play world package: /Game/FPS/Levels/UEDPIE_0_FeikoGym
+[2019.11.11-20.39.49:300][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050694s)
+[2019.11.11-20.39.49:300][422]LogAIModule: Creating AISystem for world FeikoGym
+[2019.11.11-20.39.49:301][422]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2019.11.11-20.39.49:301][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FPS/Levels/FeikoGym.FeikoGym to /Game/FPS/Levels/UEDPIE_0_FeikoGym.FeikoGym (0.051803s)
+[2019.11.11-20.39.49:354][422]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.11.11-20.39.49:394][422]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.11-20.39.49:528][422]LogInit: FAudioDevice initialized.
+[2019.11.11-20.39.49:558][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.39.49:559][422]LogLoad: Game class is 'FPS_TDM_GM_C'
+[2019.11.11-20.39.49:563][422]LogWorld: Bringing World /Game/FPS/Levels/UEDPIE_0_FeikoGym.FeikoGym up for play (max tick rate 60) at 2019.11.11-21.39.49
+[2019.11.11-20.39.49:564][422]LogWorld: Bringing up level for play took: 0.003633
+[2019.11.11-20.39.49:564][422]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2019.11.11-20.39.49:571][422]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.11-20.39.49:571][422]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-20.39.49:571][422]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.11-20.39.49:571][422]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-20.39.49:572][422]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.11.11-20.39.49:573][422]PIE: Play in editor start time for /Game/FPS/Levels/UEDPIE_0_FeikoGym 1.68
+[2019.11.11-20.39.49:573][422]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.39.49:673][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-20.39.55:276][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.41.13:721][436]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.41.13:722][436]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2019.11.11-20.41.13:723][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-20.41.13:723][436]LogWorld: BeginTearingDown for /Game/FPS/Levels/UEDPIE_0_FeikoGym
+[2019.11.11-20.41.13:733][436]LogSlate: Window 'Feikoardastianfield Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.11-20.41.13:744][436]LogWorld: UWorld::CleanupWorld for FeikoGym, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.41.13:755][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-20.41.13:756][436]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel' has LevelScriptBlueprint '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym' with GeneratedClass '/Game/FPS/Levels/FeikoGym.FeikoGym_C' with ClassGeneratedBy '/Game/FPS/Levels/FeikoGym.FeikoGym:PersistentLevel.FeikoGym'
+[2019.11.11-20.41.13:844][436]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.11.11-20.41.13:867][437]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.11.11-20.41.24:764][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.11.11-20.41.26:037][ 78]LogSlate: Window 'Save Content' being destroyed
+[2019.11.11-20.41.26:140][ 78]LogSavePackage: Moving 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/BP_BulletDDA67377412B5A0F0D1A2F9BEF26C9F8.tmp' to 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Content/FPS/Blueprints/Misc/Bullets/BP_Bullet.uasset'
+[2019.11.11-20.41.26:196][ 78]LogSavePackage: Moving 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Saved/BP_BaseWeapon5B27D8C04C9A76C7CCBA5F8A0DB7C17B.tmp' to 'C:/Users/feiko/Documents/Unreal Projects/Feikoardastianfield/FPSMultiplayerTemplate/Content/FPS/Blueprints/Weapons/BP_BaseWeapon.uasset'
+[2019.11.11-20.51.33:390][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.11.11-20.51.33:590][586]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.33:673][586]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.11-20.51.33:673][586]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.33:763][586]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.33:809][586]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.11-20.51.33:809][586]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.33:853][586]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.11-20.51.33:853][586]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.33:932][586]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.11-20.51.33:932][586]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.33:991][586]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.11-20.51.33:991][586]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.34:034][586]LogSlate: Window 'Feikoardastianfield - Unreal Editor' being destroyed
+[2019.11.11-20.51.34:276][587]Cmd: QUIT_EDITOR
+[2019.11.11-20.51.35:400][587]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.11-20.51.35:440][587]LogExit: Preparing to exit.
+[2019.11.11-20.51.35:854][587]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.35:860][587]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.35:867][587]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.35:873][587]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.35:878][587]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.35:884][587]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.35:890][587]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.35:897][587]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.35:903][587]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.35:909][587]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.35:918][587]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.35:925][587]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.35:932][587]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.35:938][587]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.35:943][587]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.35:947][587]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.35:951][587]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.35:954][587]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.35:961][587]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.35:968][587]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.36:112][587]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.11.11-20.51.36:161][587]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-20.51.36:162][587]LogExit: Editor shut down
+[2019.11.11-20.51.36:164][587]LogExit: Transaction tracking system shut down
+[2019.11.11-20.51.36:987][587]LogExit: Object subsystem successfully closed.
+[2019.11.11-20.51.37:012][587]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.11-20.51.37:514][587]LogModuleManager: Shutting down and abandoning module PortalProxies (682)
+[2019.11.11-20.51.37:514][587]LogModuleManager: Shutting down and abandoning module BlueprintGraph (680)
+[2019.11.11-20.51.37:514][587]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (678)
+[2019.11.11-20.51.37:524][587]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (676)
+[2019.11.11-20.51.37:524][587]LogModuleManager: Shutting down and abandoning module Voice (674)
+[2019.11.11-20.51.37:524][587]LogModuleManager: Shutting down and abandoning module MeshBuilder (672)
+[2019.11.11-20.51.37:524][587]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (670)
+[2019.11.11-20.51.37:524][587]LogModuleManager: Shutting down and abandoning module SceneOutliner (668)
+[2019.11.11-20.51.37:524][587]LogModuleManager: Shutting down and abandoning module AddContentDialog (666)
+[2019.11.11-20.51.37:541][587]LogModuleManager: Shutting down and abandoning module WidgetCarousel (665)
+[2019.11.11-20.51.37:542][587]LogModuleManager: Shutting down and abandoning module EditorWidgets (662)
+[2019.11.11-20.51.37:542][587]LogModuleManager: Shutting down and abandoning module CollectionManager (660)
+[2019.11.11-20.51.37:552][587]LogModuleManager: Shutting down and abandoning module StatsViewer (658)
+[2019.11.11-20.51.37:574][587]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (656)
+[2019.11.11-20.51.37:574][587]LogModuleManager: Shutting down and abandoning module FoliageEdit (654)
+[2019.11.11-20.51.37:575][587]LogModuleManager: Shutting down and abandoning module LandscapeEditor (652)
+[2019.11.11-20.51.37:579][587]LogModuleManager: Shutting down and abandoning module MeshPaintMode (650)
+[2019.11.11-20.51.37:579][587]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (648)
+[2019.11.11-20.51.37:579][587]LogModuleManager: Shutting down and abandoning module ActorPickerMode (646)
+[2019.11.11-20.51.37:579][587]LogModuleManager: Shutting down and abandoning module GeometryMode (644)
+[2019.11.11-20.51.37:592][587]LogModuleManager: Shutting down and abandoning module TextureAlignMode (642)
+[2019.11.11-20.51.37:592][587]LogModuleManager: Shutting down and abandoning module BspMode (640)
+[2019.11.11-20.51.37:592][587]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (638)
+[2019.11.11-20.51.37:609][587]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (636)
+[2019.11.11-20.51.37:609][587]LogModuleManager: Shutting down and abandoning module AutomationWorker (634)
+[2019.11.11-20.51.37:609][587]LogModuleManager: Shutting down and abandoning module OculusMR (632)
+[2019.11.11-20.51.37:609][587]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (630)
+[2019.11.11-20.51.37:613][587]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (628)
+[2019.11.11-20.51.37:638][587]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (626)
+[2019.11.11-20.51.37:642][587]LogModuleManager: Shutting down and abandoning module PlacementMode (625)
+[2019.11.11-20.51.37:642][587]LogModuleManager: Shutting down and abandoning module MaterialEditor (624)
+[2019.11.11-20.51.37:657][587]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (620)
+[2019.11.11-20.51.37:664][587]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (618)
+[2019.11.11-20.51.37:665][587]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (616)
+[2019.11.11-20.51.37:665][587]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (614)
+[2019.11.11-20.51.37:665][587]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (612)
+[2019.11.11-20.51.37:665][587]LogModuleManager: Shutting down and abandoning module WebMMedia (610)
+[2019.11.11-20.51.37:665][587]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (608)
+[2019.11.11-20.51.37:667][587]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (606)
+[2019.11.11-20.51.37:684][587]LogModuleManager: Shutting down and abandoning module SequenceRecorder (605)
+[2019.11.11-20.51.37:684][587]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (602)
+[2019.11.11-20.51.37:684][587]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (600)
+[2019.11.11-20.51.37:684][587]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (598)
+[2019.11.11-20.51.37:684][587]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (596)
+[2019.11.11-20.51.37:684][587]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (594)
+[2019.11.11-20.51.37:684][587]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (592)
+[2019.11.11-20.51.37:684][587]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (590)
+[2019.11.11-20.51.37:684][587]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (588)
+[2019.11.11-20.51.37:684][587]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (586)
+[2019.11.11-20.51.37:684][587]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (584)
+[2019.11.11-20.51.37:684][587]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (582)
+[2019.11.11-20.51.37:684][587]LogModuleManager: Shutting down and abandoning module CharacterAI (580)
+[2019.11.11-20.51.37:684][587]LogModuleManager: Shutting down and abandoning module SmartSnapping (578)
+[2019.11.11-20.51.37:684][587]LogModuleManager: Shutting down and abandoning module SessionServices (576)
+[2019.11.11-20.51.37:684][587]LogModuleManager: Shutting down and abandoning module MeshPaint (574)
+[2019.11.11-20.51.37:687][587]LogModuleManager: Shutting down and abandoning module ViewportSnapping (572)
+[2019.11.11-20.51.37:687][587]LogModuleManager: Shutting down and abandoning module ViewportInteraction (570)
+[2019.11.11-20.51.37:687][587]LogModuleManager: Shutting down and abandoning module ClothPainter (568)
+[2019.11.11-20.51.37:688][587]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (567)
+[2019.11.11-20.51.37:707][587]LogModuleManager: Shutting down and abandoning module LogVisualizer (564)
+[2019.11.11-20.51.37:719][587]LogModuleManager: Shutting down and abandoning module IntroTutorials (562)
+[2019.11.11-20.51.37:719][587]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (561)
+[2019.11.11-20.51.37:731][587]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (558)
+[2019.11.11-20.51.37:731][587]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (556)
+[2019.11.11-20.51.37:744][587]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (554)
+[2019.11.11-20.51.37:744][587]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (552)
+[2019.11.11-20.51.37:744][587]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (551)
+[2019.11.11-20.51.37:996][587]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (548)
+[2019.11.11-20.51.37:996][587]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (546)
+[2019.11.11-20.51.37:996][587]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (544)
+[2019.11.11-20.51.37:996][587]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (542)
+[2019.11.11-20.51.37:996][587]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (540)
+[2019.11.11-20.51.37:996][587]LogModuleManager: Shutting down and abandoning module InputBindingEditor (538)
+[2019.11.11-20.51.38:020][587]LogModuleManager: Shutting down and abandoning module MergeActors (536)
+[2019.11.11-20.51.38:037][587]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (534)
+[2019.11.11-20.51.38:046][587]LogModuleManager: Shutting down and abandoning module LocalizationService (533)
+[2019.11.11-20.51.38:053][587]LogModuleManager: Shutting down and abandoning module HardwareTargeting (530)
+[2019.11.11-20.51.38:053][587]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (528)
+[2019.11.11-20.51.38:061][587]LogModuleManager: Shutting down and abandoning module UndoHistory (526)
+[2019.11.11-20.51.38:070][587]LogModuleManager: Shutting down and abandoning module XmlParser (524)
+[2019.11.11-20.51.38:085][587]LogModuleManager: Shutting down and abandoning module Blutility (522)
+[2019.11.11-20.51.38:091][587]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (520)
+[2019.11.11-20.51.38:091][587]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (519)
+[2019.11.11-20.51.38:092][587]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (516)
+[2019.11.11-20.51.38:093][587]LogModuleManager: Shutting down and abandoning module SettingsEditor (514)
+[2019.11.11-20.51.38:093][587]LogModuleManager: Shutting down and abandoning module ProjectLauncher (512)
+[2019.11.11-20.51.38:105][587]LogModuleManager: Shutting down and abandoning module SessionFrontend (510)
+[2019.11.11-20.51.38:113][587]LogModuleManager: Shutting down and abandoning module ProfilerClient (508)
+[2019.11.11-20.51.38:114][587]LogModuleManager: Shutting down and abandoning module DeviceManager (506)
+[2019.11.11-20.51.38:122][587]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (505)
+[2019.11.11-20.51.38:186][587]LogModuleManager: Shutting down and abandoning module AutomationController (502)
+[2019.11.11-20.51.38:186][587]LogModuleManager: Shutting down and abandoning module AutomationWindow (500)
+[2019.11.11-20.51.38:206][587]LogModuleManager: Shutting down and abandoning module Layers (498)
+[2019.11.11-20.51.38:236][587]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (496)
+[2019.11.11-20.51.38:236][587]LogModuleManager: Shutting down and abandoning module DetailCustomizations (494)
+[2019.11.11-20.51.38:236][587]LogModuleManager: Shutting down and abandoning module PackagesDialog (492)
+[2019.11.11-20.51.38:236][587]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (490)
+[2019.11.11-20.51.38:238][587]LogModuleManager: Shutting down and abandoning module Persona (488)
+[2019.11.11-20.51.38:250][587]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (487)
+[2019.11.11-20.51.38:262][587]LogModuleManager: Shutting down and abandoning module AnimGraph (485)
+[2019.11.11-20.51.38:262][587]LogModuleManager: Shutting down and abandoning module Kismet (482)
+[2019.11.11-20.51.38:298][587]LogModuleManager: Shutting down and abandoning module KismetWidgets (481)
+[2019.11.11-20.51.38:306][587]LogModuleManager: Shutting down and abandoning module GraphEditor (478)
+[2019.11.11-20.51.38:306][587]LogModuleManager: Shutting down and abandoning module StructViewer (476)
+[2019.11.11-20.51.38:306][587]LogModuleManager: Shutting down and abandoning module ClassViewer (474)
+[2019.11.11-20.51.38:307][587]LogModuleManager: Shutting down and abandoning module Toolbox (472)
+[2019.11.11-20.51.38:307][587]LogModuleManager: Shutting down and abandoning module ModuleUI (470)
+[2019.11.11-20.51.38:314][587]LogModuleManager: Shutting down and abandoning module MovieSceneTools (468)
+[2019.11.11-20.51.38:340][587]LogModuleManager: Shutting down and abandoning module OutputLog (466)
+[2019.11.11-20.51.38:342][587]LogModuleManager: Shutting down and abandoning module GammaUI (464)
+[2019.11.11-20.51.38:355][587]LogModuleManager: Shutting down and abandoning module Documentation (462)
+[2019.11.11-20.51.38:355][587]LogModuleManager: Shutting down and abandoning module LiveCoding (460)
+[2019.11.11-20.51.38:356][587]LogModuleManager: Shutting down and abandoning module LevelSequence (458)
+[2019.11.11-20.51.38:356][587]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (456)
+[2019.11.11-20.51.38:356][587]LogModuleManager: Shutting down and abandoning module MovieScene (454)
+[2019.11.11-20.51.38:356][587]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (452)
+[2019.11.11-20.51.38:356][587]LogModuleManager: Shutting down and abandoning module LauncherPlatform (450)
+[2019.11.11-20.51.38:356][587]LogModuleManager: Shutting down and abandoning module AnalyticsET (448)
+[2019.11.11-20.51.38:356][587]LogModuleManager: Shutting down and abandoning module PortalServices (446)
+[2019.11.11-20.51.38:356][587]LogModuleManager: Shutting down and abandoning module PortalRpc (444)
+[2019.11.11-20.51.38:356][587]LogModuleManager: Shutting down and abandoning module MessagingRpc (442)
+[2019.11.11-20.51.38:356][587]LogModuleManager: Shutting down and abandoning module AIModule (440)
+[2019.11.11-20.51.38:356][587]LogModuleManager: Shutting down and abandoning module GameplayDebugger (439)
+[2019.11.11-20.51.38:356][587]LogModuleManager: Shutting down and abandoning module AITestSuite (437)
+[2019.11.11-20.51.38:356][587]LogModuleManager: Shutting down and abandoning module NavigationSystem (435)
+[2019.11.11-20.51.38:356][587]LogModuleManager: Shutting down and abandoning module DesktopPlatform (432)
+[2019.11.11-20.51.38:365][587]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (430)
+[2019.11.11-20.51.38:372][587]LogModuleManager: Shutting down and abandoning module ProfilerService (428)
+[2019.11.11-20.51.38:535][587]LogModuleManager: Shutting down and abandoning module TaskGraph (426)
+[2019.11.11-20.51.38:535][587]LogModuleManager: Shutting down and abandoning module ScreenshotTools (424)
+[2019.11.11-20.51.38:535][587]LogModuleManager: Shutting down and abandoning module SteamVRController (422)
+[2019.11.11-20.51.38:535][587]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (420)
+[2019.11.11-20.51.38:535][587]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (418)
+[2019.11.11-20.51.38:535][587]LogModuleManager: Shutting down and abandoning module OculusEditor (416)
+[2019.11.11-20.51.38:536][587]LogModuleManager: Shutting down and abandoning module OculusInput (414)
+[2019.11.11-20.51.38:536][587]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (412)
+[2019.11.11-20.51.38:536][587]LogModuleManager: Shutting down and abandoning module EditableMesh (410)
+[2019.11.11-20.51.38:536][587]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (408)
+[2019.11.11-20.51.38:536][587]LogModuleManager: Shutting down and abandoning module CableComponent (406)
+[2019.11.11-20.51.38:536][587]LogModuleManager: Shutting down and abandoning module AudioCapture (404)
+[2019.11.11-20.51.38:536][587]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (402)
+[2019.11.11-20.51.38:536][587]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (400)
+[2019.11.11-20.51.38:536][587]LogModuleManager: Shutting down and abandoning module AppleImageUtils (398)
+[2019.11.11-20.51.38:536][587]LogModuleManager: Shutting down and abandoning module AndroidPermission (396)
+[2019.11.11-20.51.38:536][587]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (394)
+[2019.11.11-20.51.38:536][587]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (392)
+[2019.11.11-20.51.38:536][587]LogModuleManager: Shutting down and abandoning module MediaCompositing (390)
+[2019.11.11-20.51.38:536][587]LogModuleManager: Shutting down and abandoning module ImgMedia (388)
+[2019.11.11-20.51.38:537][587]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (386)
+[2019.11.11-20.51.38:537][587]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (384)
+[2019.11.11-20.51.38:537][587]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (382)
+[2019.11.11-20.51.38:537][587]LogModuleManager: Shutting down and abandoning module HTML5Networking (380)
+[2019.11.11-20.51.38:537][587]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (378)
+[2019.11.11-20.51.38:537][587]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (376)
+[2019.11.11-20.51.38:537][587]LogModuleManager: Shutting down and abandoning module BackChannel (374)
+[2019.11.11-20.51.38:537][587]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (372)
+[2019.11.11-20.51.38:537][587]LogModuleManager: Shutting down and abandoning module AutomationUtils (370)
+[2019.11.11-20.51.38:537][587]LogModuleManager: Shutting down and abandoning module AlembicImporter (368)
+[2019.11.11-20.51.38:562][587]LogModuleManager: Shutting down and abandoning module AlembicLibrary (367)
+[2019.11.11-20.51.38:562][587]LogModuleManager: Shutting down and abandoning module GeometryCache (366)
+[2019.11.11-20.51.38:562][587]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (365)
+[2019.11.11-20.51.38:562][587]LogModuleManager: Shutting down and abandoning module VariantManagerContent (360)
+[2019.11.11-20.51.38:562][587]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (358)
+[2019.11.11-20.51.38:562][587]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (356)
+[2019.11.11-20.51.38:562][587]LogModuleManager: Shutting down and abandoning module PluginBrowser (354)
+[2019.11.11-20.51.38:564][587]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (352)
+[2019.11.11-20.51.38:572][587]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (350)
+[2019.11.11-20.51.38:582][587]LogModuleManager: Shutting down and abandoning module CurveEditorTools (348)
+[2019.11.11-20.51.38:583][587]LogModuleManager: Shutting down and abandoning module CurveEditor (347)
+[2019.11.11-20.51.38:594][587]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (344)
+[2019.11.11-20.51.38:594][587]LogModuleManager: Shutting down and abandoning module CryptoKeys (342)
+[2019.11.11-20.51.38:594][587]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (340)
+[2019.11.11-20.51.38:594][587]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (338)
+[2019.11.11-20.51.38:595][587]LogModuleManager: Shutting down and abandoning module UObjectPlugin (336)
+[2019.11.11-20.51.38:595][587]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (334)
+[2019.11.11-20.51.38:595][587]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (332)
+[2019.11.11-20.51.38:595][587]LogModuleManager: Shutting down and abandoning module GitSourceControl (330)
+[2019.11.11-20.51.38:610][587]LogModuleManager: Shutting down and abandoning module SourceControl (329)
+[2019.11.11-20.51.38:611][587]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (326)
+[2019.11.11-20.51.38:611][587]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (324)
+[2019.11.11-20.51.38:611][587]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (322)
+[2019.11.11-20.51.38:611][587]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (320)
+[2019.11.11-20.51.38:611][587]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (318)
+[2019.11.11-20.51.38:611][587]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (316)
+[2019.11.11-20.51.38:611][587]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (314)
+[2019.11.11-20.51.38:611][587]LogModuleManager: Shutting down and abandoning module Paper2DEditor (312)
+[2019.11.11-20.51.38:613][587]LogModuleManager: Shutting down and abandoning module SignificanceManager (310)
+[2019.11.11-20.51.38:613][587]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (308)
+[2019.11.11-20.51.38:613][587]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (306)
+[2019.11.11-20.51.38:613][587]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (302)
+[2019.11.11-20.51.38:613][587]LogModuleManager: Shutting down and abandoning module ActorSequence (300)
+[2019.11.11-20.51.38:613][587]LogModuleManager: Shutting down and abandoning module UdpMessaging (298)
+[2019.11.11-20.51.38:714][587]LogModuleManager: Shutting down and abandoning module TcpMessaging (296)
+[2019.11.11-20.51.38:814][587]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (294)
+[2019.11.11-20.51.38:814][587]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (292)
+[2019.11.11-20.51.38:814][587]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (290)
+[2019.11.11-20.51.38:814][587]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (288)
+[2019.11.11-20.51.38:814][587]LogModuleManager: Shutting down and abandoning module MagicLeapController (286)
+[2019.11.11-20.51.38:815][587]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.11-20.51.38:815][587]LogModuleManager: Shutting down and abandoning module MagicLeapAR (284)
+[2019.11.11-20.51.38:815][587]LogModuleManager: Shutting down and abandoning module AugmentedReality (283)
+[2019.11.11-20.51.38:815][587]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (280)
+[2019.11.11-20.51.38:815][587]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (278)
+[2019.11.11-20.51.38:815][587]LogModuleManager: Shutting down and abandoning module FacialAnimation (276)
+[2019.11.11-20.51.38:815][587]LogModuleManager: Shutting down and abandoning module DataValidation (274)
+[2019.11.11-20.51.38:815][587]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (272)
+[2019.11.11-20.51.38:815][587]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2019.11.11-20.51.38:861][587]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2019.11.11-20.51.38:875][587]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (268)
+[2019.11.11-20.51.38:875][587]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2019.11.11-20.51.38:875][587]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2019.11.11-20.51.38:876][587]LogModuleManager: Shutting down and abandoning module ContentBrowser (261)
+[2019.11.11-20.51.38:879][587]LogModuleManager: Shutting down and abandoning module TreeMap (259)
+[2019.11.11-20.51.38:879][587]LogModuleManager: Shutting down and abandoning module AnimationSharing (256)
+[2019.11.11-20.51.38:879][587]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (254)
+[2019.11.11-20.51.38:879][587]LogModuleManager: Shutting down and abandoning module Paper2D (252)
+[2019.11.11-20.51.38:879][587]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (250)
+[2019.11.11-20.51.38:885][587]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (248)
+[2019.11.11-20.51.38:885][587]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (246)
+[2019.11.11-20.51.38:885][587]LogModuleManager: Shutting down and abandoning module PacketHandler (244)
+[2019.11.11-20.51.38:885][587]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (242)
+[2019.11.11-20.51.38:885][587]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (240)
+[2019.11.11-20.51.38:885][587]LogModuleManager: Shutting down and abandoning module MediaAssets (238)
+[2019.11.11-20.51.38:885][587]LogModuleManager: Shutting down and abandoning module Overlay (236)
+[2019.11.11-20.51.38:885][587]LogModuleManager: Shutting down and abandoning module OverlayEditor (235)
+[2019.11.11-20.51.38:885][587]LogModuleManager: Shutting down and abandoning module VREditor (232)
+[2019.11.11-20.51.38:885][587]LogModuleManager: Shutting down and abandoning module StringTableEditor (230)
+[2019.11.11-20.51.38:885][587]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (228)
+[2019.11.11-20.51.38:885][587]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (226)
+[2019.11.11-20.51.38:885][587]LogModuleManager: Shutting down and abandoning module FunctionalTesting (224)
+[2019.11.11-20.51.38:885][587]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (222)
+[2019.11.11-20.51.38:885][587]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (221)
+[2019.11.11-20.51.38:907][587]LogModuleManager: Shutting down and abandoning module UMG (218)
+[2019.11.11-20.51.38:908][587]LogModuleManager: Shutting down and abandoning module UMGEditor (217)
+[2019.11.11-20.51.38:908][587]LogModuleManager: Shutting down and abandoning module Sequencer (216)
+[2019.11.11-20.51.38:931][587]LogModuleManager: Shutting down and abandoning module MessageLog (213)
+[2019.11.11-20.51.38:931][587]LogModuleManager: Shutting down and abandoning module SlateReflector (208)
+[2019.11.11-20.51.38:931][587]LogModuleManager: Shutting down and abandoning module Slate (206)
+[2019.11.11-20.51.38:931][587]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (204)
+[2019.11.11-20.51.38:931][587]LogModuleManager: Shutting down and abandoning module EditorStyle (202)
+[2019.11.11-20.51.38:933][587]LogModuleManager: Shutting down and abandoning module UnrealEd (200)
+[2019.11.11-20.51.38:933][587]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.11.11-20.51.38:933][587]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.11.11-20.51.38:933][587]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.11.11-20.51.38:933][587]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.11.11-20.51.38:933][587]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.11.11-20.51.38:933][587]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.11.11-20.51.38:933][587]LogModuleManager: Shutting down and abandoning module KismetCompiler (186)
+[2019.11.11-20.51.38:933][587]LogModuleManager: Shutting down and abandoning module MeshUtilities (184)
+[2019.11.11-20.51.38:933][587]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (183)
+[2019.11.11-20.51.38:933][587]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (182)
+[2019.11.11-20.51.38:933][587]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (181)
+[2019.11.11-20.51.38:933][587]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (179)
+[2019.11.11-20.51.38:933][587]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (177)
+[2019.11.11-20.51.38:933][587]LogModuleManager: Shutting down and abandoning module MaterialBaking (173)
+[2019.11.11-20.51.38:933][587]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (168)
+[2019.11.11-20.51.38:933][587]LogModuleManager: Shutting down and abandoning module DerivedDataCache (166)
+[2019.11.11-20.51.38:971][587]LogDerivedDataCache: Shutdown
+[2019.11.11-20.51.38:971][587]LogModuleManager: Shutting down and abandoning module XGEController (164)
+[2019.11.11-20.51.38:971][587]LogXGEController: Cleaning working directory: C:/Users/feiko/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.11-20.51.38:972][587]LogModuleManager: Shutting down and abandoning module TargetPlatform (162)
+[2019.11.11-20.51.38:972][587]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (161)
+[2019.11.11-20.51.38:972][587]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (159)
+[2019.11.11-20.51.38:972][587]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (157)
+[2019.11.11-20.51.38:972][587]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (155)
+[2019.11.11-20.51.38:972][587]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (153)
+[2019.11.11-20.51.38:972][587]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (151)
+[2019.11.11-20.51.38:972][587]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (149)
+[2019.11.11-20.51.38:972][587]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (147)
+[2019.11.11-20.51.38:972][587]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (145)
+[2019.11.11-20.51.38:972][587]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (143)
+[2019.11.11-20.51.38:972][587]LogModuleManager: Shutting down and abandoning module ImageWrapper (142)
+[2019.11.11-20.51.38:972][587]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (139)
+[2019.11.11-20.51.38:972][587]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (137)
+[2019.11.11-20.51.38:972][587]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (135)
+[2019.11.11-20.51.38:972][587]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (133)
+[2019.11.11-20.51.38:972][587]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (131)
+[2019.11.11-20.51.38:990][587]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (129)
+[2019.11.11-20.51.38:990][587]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (127)
+[2019.11.11-20.51.39:004][587]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2019.11.11-20.51.39:013][587]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (123)
+[2019.11.11-20.51.39:022][587]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (121)
+[2019.11.11-20.51.39:026][587]LogModuleManager: Shutting down and abandoning module Messaging (119)
+[2019.11.11-20.51.39:026][587]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (117)
+[2019.11.11-20.51.39:030][587]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (115)
+[2019.11.11-20.51.39:030][587]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (113)
+[2019.11.11-20.51.39:069][587]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (111)
+[2019.11.11-20.51.39:069][587]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (109)
+[2019.11.11-20.51.39:069][587]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (107)
+[2019.11.11-20.51.39:069][587]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (105)
+[2019.11.11-20.51.39:069][587]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (103)
+[2019.11.11-20.51.39:069][587]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (101)
+[2019.11.11-20.51.39:069][587]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (99)
+[2019.11.11-20.51.39:069][587]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (97)
+[2019.11.11-20.51.39:069][587]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (95)
+[2019.11.11-20.51.39:069][587]LogModuleManager: Shutting down and abandoning module InputCore (92)
+[2019.11.11-20.51.39:069][587]LogModuleManager: Shutting down and abandoning module Settings (90)
+[2019.11.11-20.51.39:069][587]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (88)
+[2019.11.11-20.51.39:070][587]LogModuleManager: Shutting down and abandoning module PhysXCooking (86)
+[2019.11.11-20.51.39:070][587]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (84)
+[2019.11.11-20.51.39:070][587]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (83)
+[2019.11.11-20.51.39:070][587]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.11.11-20.51.39:070][587]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.11-20.51.39:070][587]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.11.11-20.51.39:070][587]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.11.11-20.51.39:070][587]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.11.11-20.51.39:070][587]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.11.11-20.51.39:070][587]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.11.11-20.51.39:072][587]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.11.11-20.51.39:072][587]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.11.11-20.51.39:093][587]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.11.11-20.51.39:093][587]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.11-20.51.39:093][587]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD0CE0D1-47FB-27E8-B1C5-DB83C319E474%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=1e21451a4cca1d8b0ec00482591082df%7Cddbf3f1f37cc44a18e6e46eced97af60%7Cc07c59fe-4714-4539-a66f-36b858237b8d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.11-20.51.39:113][587]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.11.11-20.51.39:115][587]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.11.11-20.51.39:117][587]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.11.11-20.51.39:118][587]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.11.11-20.51.39:118][587]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.11.11-20.51.39:118][587]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.11.11-20.51.39:118][587]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.11.11-20.51.39:118][587]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.11.11-20.51.39:118][587]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.11-20.51.39:118][587]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.11-20.51.39:118][587]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.11-20.51.39:118][587]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.11-20.51.39:118][587]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.11-20.51.39:118][587]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.11-20.51.39:118][587]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.11-20.51.39:124][587]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.11-20.51.39:124][587]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.11-20.51.39:124][587]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.11-20.51.39:124][587]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.11-20.51.39:124][587]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.11-20.51.39:124][587]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.11-20.51.39:124][587]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.11-20.51.39:124][587]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.11-20.51.39:124][587]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.11-20.51.39:124][587]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.11-20.51.39:124][587]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.11-20.51.39:124][587]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.11-20.51.39:125][587]LogD3D11RHI: Shutdown
+[2019.11.11-20.51.39:125][587]LogD3D11RHI: CleanupD3DDevice
+[2019.11.11-20.51.39:126][587]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.11-20.51.39:126][587]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.11-20.51.39:126][587]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.11-20.51.39:316][587]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.11-20.51.39:349][587]LogExit: Exiting.
+[2019.11.11-20.51.39:365][587]Log file closed, 11/11/19 21:51:39
